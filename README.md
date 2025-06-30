@@ -21,7 +21,7 @@ This project demonstrates foundational image processing techniques using **Pytho
 
 ```bash
 .
-├── Assessment2_ImageProcessing.ipynb  # Main interactive notebook
+├── ImageProcessingBasics.ipynb  # Main interactive notebook
 ├── sample_images/
 │   ├── image-processing_color2greyscale_base.png
 │   ├── image-processing_masking_base.jpg
