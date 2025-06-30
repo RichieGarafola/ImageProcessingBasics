@@ -40,7 +40,7 @@ This project demonstrates foundational image processing techniques using **Pytho
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/image-processing-basics-opencv.git
+git clone https://github.com/RichieGarafola/ImageProcessingBasics.git
 cd image-processing-basics-opencv
 ```
 
