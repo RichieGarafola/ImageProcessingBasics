@@ -59,7 +59,7 @@ pip install opencv-python
 3. **Run the notebook:**
 
 ```bash
-jupyter notebook Assessment2_ImageProcessing.ipynb
+jupyter notebook ImageProcessingBasics.ipynb
 ```
 
 ---
